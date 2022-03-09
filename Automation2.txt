@@ -1,0 +1,8 @@
+public class Automation2{
+
+@Test
+public void AT2(){
+System.out.println("registration");
+}
+
+}

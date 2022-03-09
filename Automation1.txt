@@ -1,0 +1,8 @@
+public class Automation1{
+
+@Test
+public void AT1(){
+System.out.println("login");
+}
+
+}
